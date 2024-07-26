@@ -1,0 +1,24 @@
+@font-face {
+    font-family: am;
+    src: url(/font/AmberTasteBasic.ttf);
+}
+.navbar-brand{
+    font-family: am;
+    color: #eb2e2ed4;
+    font-size: 30px;
+}
+.bg-image:hover{
+    transform: scale(0.9);
+  transition: 1s;
+}
+.font-weight-bold{
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 13px;
+    margin-left: 21px;
+
+}
+.font-weight-normal{
+    margin-left: 21px;
+
+}
